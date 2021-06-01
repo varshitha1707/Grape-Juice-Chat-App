@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+.app {
+  color: rgb(229, 214, 245);
+  padding-top:20px;
+  height:35vh;
+  background-image: linear-gradient(to top left, white, #451949) ;
+  background-size: cover;
+  text-align: left;
+  padding-bottom: 450px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.app > form {
+  position: fixed;
+  bottom: 0;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  width: 100%;
+  background-color: rgb(0, 139, 139);
+  
+}
+
+.app > form > input {
   color: white;
+  border: 2px solid #d88989 ;
+  background-image: linear-gradient(to bottom,  rgb(238, 124, 223), #260427);
+  background-color: rgb(238, 224, 207);
+  padding: 20px;
+  flex: 1;
 }
 
-.App-link {
-  color: #61dafb;
+.app > form > button {
+  color:white;
+  padding-left: 5px;
+  border: 2px solid #d88989 ;
+  background-color: rgb(83, 54, 109);
+  background-image: linear-gradient(to bottom, rgb(238, 124, 223), #260427);
+  padding: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.okarin {
+  color: rgb(255, 255, 255);
+  border-radius: 17px;
+  padding: 10px;
+  margin: 2px;
+  width:fit-content;
+  align-self:left;
+  
+}
+
+.varsh {
+  color: rgb(255, 255, 255);
+  border: 2px solid #d88989 ;
+  background-image: linear-gradient(to bottom, rgb(199, 18, 169), #260427);
+  border-radius: 17px;
+  padding: 7px;
+  margin: 2px;
+  width:fit-content;
+  align-self: left;
+  
 }
