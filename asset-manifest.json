@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Grape-Juice-Chat-App/static/css/main.3b6cde8f.chunk.css",
+    "main.js": "/Grape-Juice-Chat-App/static/js/main.122b819a.chunk.js",
+    "main.js.map": "/Grape-Juice-Chat-App/static/js/main.122b819a.chunk.js.map",
+    "runtime-main.js": "/Grape-Juice-Chat-App/static/js/runtime-main.d205361a.js",
+    "runtime-main.js.map": "/Grape-Juice-Chat-App/static/js/runtime-main.d205361a.js.map",
+    "static/js/2.08cb54f8.chunk.js": "/Grape-Juice-Chat-App/static/js/2.08cb54f8.chunk.js",
+    "static/js/2.08cb54f8.chunk.js.map": "/Grape-Juice-Chat-App/static/js/2.08cb54f8.chunk.js.map",
+    "static/js/3.cc787e28.chunk.js": "/Grape-Juice-Chat-App/static/js/3.cc787e28.chunk.js",
+    "static/js/3.cc787e28.chunk.js.map": "/Grape-Juice-Chat-App/static/js/3.cc787e28.chunk.js.map",
+    "index.html": "/Grape-Juice-Chat-App/index.html",
+    "static/css/main.3b6cde8f.chunk.css.map": "/Grape-Juice-Chat-App/static/css/main.3b6cde8f.chunk.css.map",
+    "static/js/2.08cb54f8.chunk.js.LICENSE.txt": "/Grape-Juice-Chat-App/static/js/2.08cb54f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d205361a.js",
+    "static/js/2.08cb54f8.chunk.js",
+    "static/css/main.3b6cde8f.chunk.css",
+    "static/js/main.122b819a.chunk.js"
+  ]
+}
